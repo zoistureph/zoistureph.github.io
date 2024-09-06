@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://zoistureph.github.io/sitemap.html.gz
+Sitemap: https://zoistureph.github.io/app/sitemap.html.gz
+Sitemap: https://zoistureph.github.io/assets/sitemap.html.gz
+Sitemap: https://zoistureph.github.io/css/sitemap.html.gz
+Sitemap: https://zoistureph.github.io/includes/sitemap.html.gz
+Sitemap: https://zoistureph.github.io/item/sitemap.html.gz
+Sitemap: https://zoistureph.github.io/src/sitemap.html.gz
